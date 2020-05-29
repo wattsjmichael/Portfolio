@@ -1,0 +1,23 @@
+# Portfolio
+
+#### A HTML Website about Michael Watts for Epicodus, 05.29.20
+
+#### By Michael Watts
+
+## Description
+
+A  HTML Website for Michael Watts' Portfolio
+
+## Setup
+
+* Clone Repository
+* Paste into VS Code
+* Save
+* Open with your favorite HTML Browser
+
+## Website
+*[Michael Watts' Portfolio](www.github.io/wattsjmichael/portfolio)
+
+## Legal
+Copyright (c) 2020 Michael Watts
+This software is licensed under MIT
