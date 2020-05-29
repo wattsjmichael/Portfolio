@@ -20,4 +20,4 @@ A  HTML Website for Michael Watts' Portfolio
 
 ## Legal
 Copyright (c) 2020 Michael Watts
-This software is licensed under MIT
+This software is licensed under MIT license.
