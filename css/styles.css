@@ -53,5 +53,6 @@ h4 {
   float: right;
   width: 200px;
   height: 200px;
+  transform: scaleX(-1);
 
 }
