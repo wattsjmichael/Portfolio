@@ -34,5 +34,25 @@ h4 {
   margin-right: auto;
   width: 150px;
   height: 150px;
+  padding: 10px;
+  outline-color: black;
+  outline-style: double;
+  outline-width: 5px;
+}
+
+.stellaLeft {
+  float: left;
+  width: 200px;
+  height: 200px;
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.stellaRight {
+  float: right;
+  width: 200px;
+  height: 200px;
+  transform: scaleX(-1);
 
 }
