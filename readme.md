@@ -16,7 +16,7 @@ A  HTML Website for Michael Watts' Portfolio
 * Open with your favorite HTML Browser
 
 ## Website
-* [Michael Watts' Portfolio](wattsjmichael.github.io/portfolio)
+* [Michael Watts' Portfolio](wattsjmichael.github.io/Portfolio)
 
 ## Legal
 Copyright (c) 2020 Michael Watts
